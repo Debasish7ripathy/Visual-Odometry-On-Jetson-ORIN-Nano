@@ -67,7 +67,7 @@ You will get to know once you get the above error so just copy those files in th
 ### Commands for installing :
 
 ```
-$ git clone https://github.com/vinodpatil2002/Visual-Odometry-On-Jetson-ORIN-Nano.git
+$ git clone https://github.com/debasish7ripathy/Visual-Odometry-On-Jetson-ORIN-Nano.git
 $ cd Visual-Odometry-On-Jetson-ORIN-Nano/ORB_SLAM2
 $ ./build.sh
 ```
@@ -97,6 +97,5 @@ If any minor errors while installing, refer to the issues mentioned in the origi
 
 ## Authors
 
-- [@vinodpatil2002](https://github.com/vinodpatil2002)
-- [@ankitraichur](https://github.com/ankitraichur/)
+- [@debasish7ripathy](https://github.com/debasish7ripathy)
 
